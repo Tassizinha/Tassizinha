@@ -8,11 +8,8 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tassizinha&show_icons=true&theme=gruvbox_light)
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tassizinha&hide_progress=true&theme=gruvbox_light)
 
 
 
