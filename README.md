@@ -1,5 +1,5 @@
 
-### Hello, My name is Victória Tassi! 🌹
+### Hello, My name is Victória Tassi! 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tassizinha&show_icons=true&theme=buefy)
